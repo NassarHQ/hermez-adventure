@@ -1,5 +1,6 @@
 package com.hermes.adventure.controller;
 
+import com.hermes.adventure.controller.User;
 import org.apache.catalina.connector.Response;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
